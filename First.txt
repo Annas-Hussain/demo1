@@ -1,3 +1,6 @@
 This is my Life's first Git File while Learning
 
 Dated: 16-October-2019
+
+
+Changes to check smart Git function
