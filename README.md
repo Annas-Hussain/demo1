@@ -23,7 +23,10 @@ This is test Text
 ``
 
 
-[Hyper Link](www.google.com)
+[Hyper Link] (https://www.google.com)
+
+
+[Hyper Link](https://www.google.com)
 
 -This is test Text
 - This is test Text
